@@ -1,0 +1,11 @@
+[
+  {
+    "name": "Ali",
+    "vaccineStatus": "Vaccinated",
+    "QID": "10000",
+    "healthStatus": "Infected",
+    "image": "infected"
+    
+
+  }
+]
