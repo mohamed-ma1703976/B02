@@ -1,0 +1,11 @@
+[
+  {
+    "healthStatus": "Healthy"
+  },
+  {
+    "healthStatus": "Quarantine"
+  },
+  {
+    "healthStatus": "Infected"
+  }
+]

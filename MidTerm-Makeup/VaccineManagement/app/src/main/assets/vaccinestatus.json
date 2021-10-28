@@ -1,0 +1,15 @@
+[
+  {
+      "vaccineStatus": "Vaccinated"
+    
+  },
+  {
+    "vaccineStatus": "Partially"
+    
+  },
+  {
+    "vaccineStatus": "Vac Pending"
+    
+  }
+
+]
