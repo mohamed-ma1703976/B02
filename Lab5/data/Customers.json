@@ -1,0 +1,26 @@
+[
+  {
+    "customerId": 123,
+    "companyName": "Qatar University",
+    "street": "Duhail",
+    "city": "Doha"
+    "country": "Qatar"
+    "firstName": "Mohamed"
+    "lastName": "Abdelmkoety"
+    "mobile": 3476222
+    "email": "ma1703976@qu.edu.qa"
+    
+  },
+  {
+    "customerId": 132,
+    "companyName": "Qatar Foundation",
+    "street": "alsaad",
+    "city": "Doha"
+    "country": "Qatar"
+    "firstName": "Ahmed"
+    "lastName": "Khaled"
+    "mobile": 3242564
+    "email": "ak234456@gmai.com"
+    
+  },
+  ]
